@@ -1,2 +1,4 @@
 # pandas-challenge
 module 4 challenge
+sources: tutor Xolani, Xpert Learning Assistant, ask BCS(in slack). https://www.google.com/search?q=pd.cut+in+jupyter+notebook&sca_esv=15a9157023f07e80&sca_upv=1&biw=1536&bih=738&tbm=vid&sxsrf=ADLYWII9gY00oDw_aJPHO7UK4uQRaQTSKQ%3A1720734298376&ei=WlKQZt3TFp_ep84P-sy64Ag&oq=pd.cut+in+jupyter&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhFwZC5jdXQgaW4ganVweXRlcioCCAAyBRAhGKABMgUQIRigATIFECEYoAFIjkNQ0AdYuDVwAXgAkAEAmAGfAqAB5A2qAQYxMi40LjG4AQHIAQD4AQGYAhKgAvwOqAIKwgIHECMYJxjqAsICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICBRAAGIAEwgIKEAAYgAQYQxiKBcICCBAAGIAEGLEDwgILEAAYgAQYhgMYigXCAhAQABiABBixAxiDARgUGIcCwgIKEAAYgAQYFBiHAsICCBAAGIAEGKIEwgIGEAAYFhgewgIFECEYqwKYAxaSBwU5LjguMaAHvWE&sclient=gws-wiz-video#fpstate=ive&vld=cid:24fdc240,vid:C5SdqegjrE8,st:0
+         
